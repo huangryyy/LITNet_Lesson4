@@ -1,0 +1,1 @@
+python style.py transfer --model_path models/wave_crop/compressed.model --source content_imgs/maine.jpg --output results/maine.jpg
